@@ -1,7 +1,7 @@
 {
   "name": "devops",
   "version": "1.0.0",
-  "description": "demo",
+  "description": "demo for a new release automation",
   "main": "index.js",
   "scripts": {
     "test": "jest",
